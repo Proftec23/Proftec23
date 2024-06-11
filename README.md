@@ -1,10 +1,15 @@
-- 👋 Olá! Meu nome é Elaine Garcia.
-- 👀 Sou professora da E.E José Antônio de Mendonça.
-- 🌱 Leciono a disciplina de Tecnologia e Inovação.
-- 💞️ Procuro colaborar com o desenvolvimento do Pensamento computacional e da programação lógica
-- 📫 Contato pelo e-mail: elaineg@prof.educacao.sp.gov.br
+### Bem -vindo ao meu perfil! 💙
 
-<!---
-Proftec23/Proftec23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Elaine Garcia
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem de JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo pelo e-mail📫
+
+elaineg@prof.educacao.sp.gov.br
+
+@elainegarcia05
+
+![](https://media.tenor.com/NqJp_SNOne0AAAAj/wonder-woman-strong.gif)
